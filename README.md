@@ -1,7 +1,4 @@
 # Predicting Bike Sharing Patterns
-Udacity Deep Learning Nanodegree Project 1 on bike-sharing patterns, created from scratch with Numpy and Pandas.\
-The original .ipynb file, an HTML convert and a markdown file for th code has been provided.\
-Do :star2: the project and show some love. :heart:
 
 # Your first neural network
 
